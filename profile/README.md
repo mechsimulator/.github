@@ -1,6 +1,6 @@
 # MechSim Robot Simulation Suite
 
-![MechSim Logo](https://github.com/mechsimulator/.github/blob/main/images/mechsim-logo.png)
+![MechSim Logo](https://github.com/mechsimulator/.github/blob/main/images/mechsim@0.15x.png)
 
 # Plans
 
